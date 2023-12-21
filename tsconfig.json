@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "@adrok-group/react-native-infinite-list": ["./src/index"]
+      "@swanstack/react-native-infinite-list": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

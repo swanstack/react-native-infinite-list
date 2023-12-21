@@ -1,7 +1,7 @@
 {
-  "name": "@adrok-group/react-native-infinite-list",
-  "version": "0.1.0",
-  "description": "Elevate your React Native app's pagination capabilities with react-native-infinite-list. This package is tailored for seamless infinite scrolling in flat lists and section lists, providing a user-friendly solution for handling large datasets with ease.",
+  "name": "@swanstack/react-native-infinite-list",
+  "version": "1.0.0",
+  "description": "React Native Infinite List effortlessly loads more elements as users scroll down. Compatible with FlatList, SectionList, and any other list type, it stands as the ultimate solution for infinite scrolling.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -26,7 +26,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace @adrok-group/react-native-infinite-list-example",
+    "example": "yarn workspace @swanstack/react-native-infinite-list-example",
     "test": "jest",
     "typecheck": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -41,20 +41,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrok-group/react-native-infinite-list.git"
+    "url": "git+https://github.com/swanstack/react-native-infinite-list.git"
   },
   "author": "Adam Sajko <pronasa5@gmail.com> (https://github.com/adam-sajko)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrok-group/react-native-infinite-list/issues"
+    "url": "https://github.com/swanstack/react-native-infinite-list/issues"
   },
-  "homepage": "https://github.com/adrok-group/react-native-infinite-list#readme",
+  "homepage": "https://github.com/swanstack/react-native-infinite-list#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.0.2",
     "@evilmartians/lefthook": "^1.5.0",
+    "@react-native/babel-preset": "^0.74.0",
     "@react-native/eslint-config": "^0.72.2",
     "@release-it/conventional-changelog": "^5.0.0",
     "@types/jest": "^28.1.2",

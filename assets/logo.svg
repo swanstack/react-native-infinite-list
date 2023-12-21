@@ -1,0 +1,30 @@
+<svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect style="fill: #fff; stroke-width: 30px; stroke: rgb(0, 0, 0);" x="47.33" y="16.567" width="225.267" height="287.569" rx="10" ry="10"></rect>
+  <path style="stroke-width: 0px;" d="M 80 45 H 240 V 75 H 80 V 45 Z" bx:shape="rect 80 45 160 30 0 0 0 0 1@1325d1bb"></path>
+  <path style="stroke-width: 0px;" d="M 80 85 H 240 V 115 H 80 V 85 Z" bx:shape="rect 80 85 160 30 0 0 0 0 1@4ee3cde4"></path>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="232" width="48" height="160" style="stroke-width: 35.8399px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="107.552" y="51.546" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -54.4856 131.5499)" width="48" height="159.998" style="stroke-width: 35.8403px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect y="232" width="160" height="48" style="stroke-width: 35.8399px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="51.558" y="356.448" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -230.485 204.4558)" width="159.998" height="48" style="stroke-width: 35.8403px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="232" y="352" width="48" height="160" style="stroke-width: 35.8399px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="356.448" y="300.446" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -157.585 380.4473)" width="48" height="159.998" style="stroke-width: 35.8403px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="352" y="232" width="160" height="48" style="stroke-width: 35.8399px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <g transform="matrix(0.195313, 0, 0, 0.195313, 110, 170)">
+    <rect x="300.443" y="107.539" transform="matrix(0.7071 -0.7071 0.7071 0.7071 18.4167 307.5402)" width="159.998" height="48" style="stroke-width: 35.8403px; stroke: rgb(0, 0, 0);"></rect>
+  </g>
+  <rect style="stroke-width: 0px;" x="80" y="125" width="160" height="30" rx="0" ry="0"></rect>
+</svg>

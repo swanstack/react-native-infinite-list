@@ -1,22 +1,27 @@
-# @adrok-group/react-native-infinite-list
+<h1 align="center">
+  <img src="assets/logo.svg" width="80"/><br/>
+  React Native Infinite List
+</h1>
 
-Elevate your React Native app's pagination capabilities with react-native-infinite-list. This package is tailored for seamless infinite scrolling in flat lists and section lists, providing a user-friendly solution for handling large datasets with ease.
+**React Native Infinite List** effortlessly loads more elements as users scroll down. As it is compatible with `FlatList`, `SectionList`, and any other list type, it stands as the ultimate solution for infinite scrolling.
+
+![simulator screen recording](assets/simulator-screen-recording.gif)
+
+## Features
+
+- Ultimate Solution for Infinite Scrolling
+- List Type Compatibility ([FlatList](https://swanstack.github.io/react-native-infinite-list/components/infinite-flat-list), [SectionList](https://swanstack.github.io/react-native-infinite-list/components/infinite-section-list), [VirtualizedList](https://swanstack.github.io/react-native-infinite-list/components/infinite-virtualized-list))
+- Flexible Integration with Custom Lists and External Libraries ([read more](https://swanstack.github.io/react-native-infinite-list/builder/custom-infinite-list))
 
 ## Installation
 
 ```sh
-npm install @adrok-group/react-native-infinite-list
+yarn add @swanstack/react-native-infinite-list
 ```
 
 ## Usage
 
-```js
-import { multiply } from '@adrok-group/react-native-infinite-list';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+**Check [Docs](https://swanstack.github.io/react-native-infinite-list/usage) for more information!**
 
 ## Contributing
 
