@@ -1,6 +1,6 @@
 {
   "name": "@swanstack/react-native-infinite-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Infinite List effortlessly loads more elements as users scroll down. Compatible with FlatList, SectionList, and any other list type, it stands as the ultimate solution for infinite scrolling.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
