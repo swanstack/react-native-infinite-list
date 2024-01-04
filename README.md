@@ -10,8 +10,8 @@
 ## Features
 
 - Ultimate Solution for Infinite Scrolling
-- List Type Compatibility ([FlatList](https://swanstack.github.io/react-native-infinite-list/components/infinite-flat-list), [SectionList](https://swanstack.github.io/react-native-infinite-list/components/infinite-section-list), [VirtualizedList](https://swanstack.github.io/react-native-infinite-list/components/infinite-virtualized-list))
-- Flexible Integration with Custom Lists and External Libraries ([read more](https://swanstack.github.io/react-native-infinite-list/builder/custom-infinite-list))
+- List Type Compatibility ([FlatList](https://swanstack.github.io/react-native-infinite-list/usage/infinite-flat-list), [SectionList](https://swanstack.github.io/react-native-infinite-list/usage/infinite-section-list), [VirtualizedList](https://swanstack.github.io/react-native-infinite-list/usage/infinite-virtualized-list))
+- Flexible Integration with Custom Lists and External Libraries ([read more](https://swanstack.github.io/react-native-infinite-list/guides/infinite-reanimated-list))
 
 ## Installation
 
@@ -21,7 +21,7 @@ yarn add @swanstack/react-native-infinite-list
 
 ## Usage
 
-**Check [Docs](https://swanstack.github.io/react-native-infinite-list/usage) for more information!**
+**Check [Docs](https://swanstack.github.io/react-native-infinite-list) for more information!**
 
 ## Contributing
 
